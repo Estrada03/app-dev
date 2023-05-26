@@ -17,7 +17,6 @@ Cast: The film features an ensemble cast, including Robert Downey Jr. as Tony St
 
 **Snap:** The term "snap" refers to Thanos' action in "Avengers: Infinity War" where he used the Infinity Stones to eliminate half of all life in the universe with a single snap of his fingers. ![image](https://github.com/Estrada03/app-dev/assets/134744904/aa777a7b-be50-422a-bdae-c029b3915043)
 
-![image](https://github.com/Estrada03/app-dev/assets/134744904/8067b425-7020-421a-bdfc-8e989de147db)
 ![image](https://github.com/Estrada03/app-dev/assets/134744904/070baf37-012e-4fc0-8076-dfc6954c2bc3)
 **Battle of Earth:** The climax of the film features an epic battle on Earth, where the Avengers, along with their allies, confront Thanos and his army.
 
