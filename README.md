@@ -7,7 +7,7 @@ My first repository
 
 "Avengers: Endgame" is a superhero film released in 2019 and produced by Marvel Studios. It is the direct sequel to "Avengers: Infinity War" and serves as the culmination of the Marvel Cinematic Universe (MCU) up until that point"
 
->**Directors and Writers:** The film was directed by **Anthony and Joe Russo**, who also directed "Avengers: Infinity War." The screenplay was written by **Christopher Markus and Stephen McFeely**.   ![image](https://github.com/Estrada03/app-dev/assets/134744904/c30a48ff-36a7-4cc2-9acf-16e24ac9bdb8)
+>**Directors and Writers:** The film was directed by **Anthony and Joe Russo**, who also directed "Avengers: Infinity War." The screenplay was written by **Christopher Markus and Stephen McFeely**.                     ![image](https://github.com/Estrada03/app-dev/assets/134744904/c30a48ff-36a7-4cc2-9acf-16e24ac9bdb8)
 
 1. **Cast:** The film features an ensemble cast, including Robert Downey Jr. as Tony Stark/Iron Man, Chris Evans as Steve Rogers/Captain America, Chris Hemsworth as Thor, Scarlett Johansson as Natasha Romanoff/Black Widow, Mark Ruffalo as Bruce Banner/Hulk, Jeremy Renner as Clint Barton/Hawkeye, and many more.
 
@@ -29,3 +29,5 @@ My first repository
   ![image](https://github.com/Estrada03/app-dev/assets/134744904/7b4efe91-8471-4054-b2a5-e2e5e372330c)
 
 These are some important pieces of information about "Avengers: Endgame." The film marks a significant milestone in the Marvel Cinematic Universe and provides a satisfying conclusion to the Infinity Saga storyline.
+
+[Avengers: Endgame](https://www.imdb.com/title/tt4154796/?ref_=tt_mv_close)
