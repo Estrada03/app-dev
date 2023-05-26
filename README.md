@@ -28,4 +28,4 @@ My first repository
 5. **Post-Credits Scene:** "Avengers: Endgame" does not have a traditional post-credits scene. However, it includes a soundbite of Tony Stark hammering in the background, paying homage to the beginning of the MCU. As of my knowledge cutoff in September 2021, "Avengers: Endgame" is the highest-grossing film of all time, surpassing "Avatar." It earned over $2.798 billion worldwide. 
   ![image](https://github.com/Estrada03/app-dev/assets/134744904/7b4efe91-8471-4054-b2a5-e2e5e372330c)
 
-I need to highlight these ==These are some important pieces of information about "Avengers: Endgame." The film marks a significant milestone in the Marvel Cinematic Universe and provides a satisfying conclusion to the Infinity Saga storyline.==.
+These are some important pieces of information about "Avengers: Endgame." The film marks a significant milestone in the Marvel Cinematic Universe and provides a satisfying conclusion to the Infinity Saga storyline.
